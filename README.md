@@ -1,8 +1,6 @@
-# springboard-11-connect-four-game
+# Connect Four
 
-Connect Four
----
-In this exercise, you plan & help code a Connect Four game in Javascript.
+Play it now: https://nirrraj.github.io/springboard-11-connect-four-game/
 
 The Game
 ---
